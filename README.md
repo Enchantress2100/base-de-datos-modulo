@@ -1,2 +1,2 @@
 # base-de-datos-modulo
-Ejercicios de repaso.
+Ejercicios de repaso con distintas bases de datos, tablas y documentos.
